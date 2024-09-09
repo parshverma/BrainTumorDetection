@@ -3,23 +3,6 @@
 
 This project implements a brain tumor detection model using Convolutional Neural Networks (CNNs) with TensorFlow/Keras. The model is trained to classify images into four categories: `No Tumor`, `Pituitary Tumor`, `Meningioma Tumor`, and `Glioma Tumor`.
 
-## Folder Structure
-```
-├── data_loader.py        # Script to load and preprocess the dataset
-├── model_builder.py      # Script to build the CNN model
-├── train.py              # Script for training, evaluating, and plotting model performance
-├── main.py               # Main script to execute the pipeline
-├── Testing/              # Contains testing image datasets
-│   ├── glioma_tumor
-│   ├── meningioma_tumor
-│   ├── no_tumor
-│   └── pituitary_tumor
-├── Training/             # Contains training image datasets
-    ├── glioma_tumor
-    ├── meningioma_tumor
-    ├── no_tumor
-    └── pituitary_tumor
-```
 
 ## Installation
 
