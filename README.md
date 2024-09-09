@@ -8,14 +8,8 @@ This project implements a brain tumor detection model using Convolutional Neural
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/tumor-detection.git
-   cd tumor-detection
-   ```
-
-2. **Set up a virtual environment**:
-   ```bash
-   python -m venv envTumor
-   source envTumor/bin/activate   # On Windows: envTumor\Scriptsctivate
+   git clone https://github.com/parshverma/BrainTumorDetection.git
+   cd BrainTumorDetection
    ```
 
 3. **Install dependencies**:
